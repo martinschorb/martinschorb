@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I started as a scientist but pretty soon realized that creating software to help others achieve their research goals is my main motivation.
 
-From simple data analysis (geometrical relations) and image processing scripts, this lead me to develop a [Python package](https://git.embl.de/schorb/pyem) for guiding Transmission EM image acquisition based on image features.
+From simple data analysis (geometrical relations) and image processing scripts, this lead me to develop a [Python package](https://github.com/martinschorb/pyem) for guiding Transmission EM image acquisition based on image features.
 I always like to make powerful computational tools available to end users, so I developed some handy tools for accessing a compute cluster.
 
-My most recent and biggest [project](https://git.embl.de/schorb/volumealign) so far is a dash-based WebUI for running an alignment pipeline for large volume image data on HPC hardware.
+My most recent and biggest [project](https://github.com/martinschorb/volumealign) so far is a dash-based WebUI and the [backend code](https://github.com/martinschorb/rendermodules-addons) for running an alignment pipeline for large volume image data on HPC hardware.
